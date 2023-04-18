@@ -1,0 +1,47 @@
+::-webkit-scrollbar {
+	width:0px;
+	height:0px;
+}
+body {
+	background-color:#F6E1C3;
+	color:#A84448;
+	margin:0px;
+	font-family: 'Nanum Gothic', sans-serif;
+}	
+a {
+	color:#7A3E65;
+	font-size:35px;
+}
+.topbar {
+	padding: 7px 7px 7px 0px;
+	width: 100%;
+	background-color:#E9A178;
+}
+.topbar a { 
+	padding: 8px;
+	color:#A84448;
+}
+.topbar a:hover {
+	background-color:#f7d097;
+}
+.card {
+	margin:10px 5px 10px 5px;
+	padding: 40px 10px 40px 10px;
+	height:450px;
+
+	background-color:#f7d6a6;
+	border-radius:25px;
+}
+.cardtext {
+	padding-left:500px;
+	padding-top: 25px;
+}
+.cardtext h1 {
+	font-size:55px;
+}
+.cardtext ul, li {
+	padding-top:5px;
+	font-size:30px;
+	font-weight:bold;
+	line-height:1.3;
+}
