@@ -47,7 +47,17 @@ a {
 }
 .autocard {
 	margin:20px 5px 20px 5px;
-	padding: 1px 0px 1px 0px;
+	padding: 40px 10px 40px 10px;
 	background-color:#f7d6a6;
 	border-radius:25px;
+}
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+table, td, th {
+	border: 4px solid;
+}	
+td {
+	padding:10px;
 }
